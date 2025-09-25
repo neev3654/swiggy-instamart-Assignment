@@ -1,0 +1,61 @@
+.nav{
+    
+    margin: 0;
+    
+    display: flex;
+}
+
+.loc{
+    
+  
+    display: flex;
+    
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 10px;
+   
+}
+
+.profile{
+    margin-left: 700px;
+   
+    padding: 15px;
+    
+}
+.main{
+    border: 2px solid black;
+    width: 100%;
+    align-self: center;
+}
+
+.items{
+    padding-left: 200px;
+}
+
+.srch{
+    padding-left: 200px;
+}
+
+
+.r1{
+    width: 925px;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    justify-content: space-between;
+
+}
+
+.item{
+   
+    width: 125px;
+
+
+}
+
+
+
+
